@@ -1,0 +1,8 @@
+/ai-buddy-memory-journal
+ ├── /lib               (Flutter source code)
+ ├── /assets            (Images, icons, fonts, etc.)
+ ├── /firebase          (Firebase configs & rules)
+ ├── pubspec.yaml       (Flutter dependencies)
+ ├── .gitignore
+ ├── README.md          (Full setup instructions)
+ └── .env.example       (For any API keys & configs)
